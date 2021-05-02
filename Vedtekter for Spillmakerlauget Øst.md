@@ -1,17 +1,26 @@
-# Vedtekter for foreningen ”Spillmakerlauget Midt”
+# Vedtekter for foreningen Spillmakerlauget Øst
 
 ## § 1 Foreningens navn
-Foreningens navn er: Spillmakerlauget Midt og ble stiftet 12.10.2012
+Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er East Norwergian Game Makers Guild.
 
 ## § 2 Formål og visjon
-Spillmakerlauget Midt er en forening skapt av spillutviklere i Midt-Norge, for å tjene spillutviklere i Midt-Norge.
+Spillmakerlauget Øst er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Øst-Norge. 
 
--	Å jobbe for en bærekraftig spillindustri i Midt-Norge
+Med spill menes elektroniske spill, brettspill, rollespill, laiv og andre former for interaktive regelsystemer. 
+
+Med Øst-Norge menes fylkene Oslo, Viken og Innlandet. Hovedvekten av aktiviteter er i Oslo, men medlemmer kan også legge til rette for aktiviteter andre steder i Øst-Norge.
+
+Lauget har følgende formål:
+
+-	Å jobbe for en bærekraftig spillindustri i Øst-Norge
 -	Å være et bindeledd mellom utdanning og industri
 -	Å forbli en ideell og gjennomsiktig organisasjon
--	Være en arena for menings- og vitensutveksling for alle interesserte innenfor vårt felt
+-	Å være en arena for menings- og kunnskapsutveksling for alle interesserte innenfor vårt felt
 
-Med spillutviklermiljøet mener vi: Produksjon av elektroniske spill, brettspill, rollespill, laiv og andre former for interaktive regelsystemer.
+
+Lauget baserer seg på frivillig engasjement, og er uavhengig av organisasjoner som medlemmer arbeider i og organisasjoner som sponser lauget.
+
+Spillmakerlauget Øst er medlem av og følger vedtektene til Spillmakerlauget (Norge).
  
 ## § 3 Juridisk person
 Foreningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
@@ -42,7 +51,7 @@ Alle medlemmer har adgang til årsmøtet. Årsmøtet kan invitere andre personer
 På årsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før årsmøtet. Andre saker kan behandles og avgjøres når 2/3 av de fremmøtte krever det. Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 
 ## § 9 Ledelse av årsmøtet
-Årsmøtet ledes av valgt dirigent. Dirigenten behøver ikke å være medlem av Spillmakerlauget Midt.
+Årsmøtet ledes av valgt dirigent. Dirigenten behøver ikke å være medlem av Spillmakerlauget Øst.
 
 ## § 10 Stemmegivning på årsmøtet
 Med mindre annet er bestemt skal et vedtak for å være gyldig være truffet med alminnelig flertall av de avgitte stemmene. Blanke stemmer skal anses som ikke avgitt.
@@ -56,11 +65,11 @@ Når det ved valg skal velges flere ved en avstemming, må alle for å anses val
 ## § 11 Årsmøtets oppgaver
 Årsmøtet skal:
 1.	Velge dirigent(er), sekretær(er) samt 1 representant til å underskrive protokollen.
-2.	Behandle Spillmakerlauget Midts årsmelding og eventuelle gruppeårsmeldinger.
-3.	Behandle Spillmakerlauget Midts regnskap i revidert stand.
+2.	Behandle Spillmakerlauget Østs årsmelding og eventuelle gruppeårsmeldinger.
+3.	Behandle Spillmakerlauget Østs regnskap i revidert stand.
 4.	Behandle innkomne forslag og saker.
 5.	Fastsette medlemskontingent
-6.	Vedta Spillmakerlauget Midts budsjett
+6.	Vedta Spillmakerlauget Østs budsjett
 7.	Velge:
     - a.	Leder og nestleder
     - b.	Minst 1 Styremedlem(mer) og minst 1 varamedlem(mer)
@@ -85,22 +94,22 @@ Styret skal:
 2.	Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
 3.	Administrere og føre nødvendig kontroll med Spillmakerlauget Midts økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
 4.	Representere Spillmakerlauget Midt utad.
-5.	Signere dokumenter for Spillmakerlauget Midt. Alle signeringer krever signatur fra 2 styremedlemmer i fellesskap.
+5.	Signere dokumenter for Spillmakerlauget Øst. Alle signeringer krever signatur fra 2 styremedlemmer i fellesskap.
 
 Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
 
 Styret er vedtaksført når et flertall av styrets medlemmer er til stede. Vedtak fattes med flertall av de avgitte stemmene. Ved stemmelikhet teller styrelederens stemme dobbelt.
 
 ## § 14 Grupper/avdelinger
-Spillmakerlauget Midt kan organiseres med avdelinger og/eller grupper. Disse kan ledes av oppnevnte tillitspersoner eller av valgte styrer. Spillmakerlauget Midts årsmøte bestemmer opprettelsen av avdelinger/grupper, og hvordan disse skal organiseres og ledes.
+Spillmakerlauget Øst kan organiseres med avdelinger og/eller grupper. Disse kan ledes av oppnevnte tillitspersoner eller av valgte styrer. Spillmakerlauget Østs årsmøte bestemmer opprettelsen av avdelinger/grupper, og hvordan disse skal organiseres og ledes.
 
-For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget Midt, og avdelinger/grupper kan ikke inngå avtaler eller representere Spillmakerlauget Midt utad uten styrets godkjennelse.
+For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget Øst, og avdelinger/grupper kan ikke inngå avtaler eller representere Spillmakerlauget Øst utad uten styrets godkjennelse.
 
 ## § 15 Vedtektsendring
 Endringer i disse vedtekter kan bare foretas på ordinært eller ekstraordinært årsmøte etter å ha vært på sakslisten, og det kreves 2/3 flertall av de avgitte stemmene.
 
-## § 16 Oppløsning (§ 16 kan ikke endres.)
-Oppløsning av Spillmakerlauget Midt kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall av de avgitte stemmene, innkalles ekstraordinært årsmøte 3 måneder senere.
+## § 16 Oppløsning
+Oppløsning av Spillmakerlauget Øst kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall av de avgitte stemmene, innkalles ekstraordinært årsmøte 3 måneder senere.
 
 Sammenslutning med andre foreninger anses ikke som oppløsning av Spillmakerlauget Midt. Vedtak om sammenslutning og nødvendige vedtektsendringer i tilknytning til dette treffes i samsvar med bestemmelsene om vedtektsendring, jfr. § 15.
 
