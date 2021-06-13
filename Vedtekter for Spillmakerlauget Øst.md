@@ -1,14 +1,12 @@
 # Vedtekter for foreningen Spillmakerlauget Øst
 
 ## § 1 Foreningens navn
-Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er East Norwergian Game Makers Guild.
+Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er Norwergian Game Makers Guild East.
 
 ## § 2 Formål og visjon
 Spillmakerlauget Øst er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Øst-Norge, både profesjonelle og hobbyister. 
 
-Med spill menes elektroniske spill, brettspill, rollespill, laiv og andre former for interaktive regelsystemer. 
-
-Med Øst-Norge menes fylkene Oslo, Viken og Innlandet. Hovedvekten av aktiviteter er i Oslo, men medlemmer kan også legge til rette for aktiviteter andre steder i Øst-Norge.
+Med Øst-Norge menes fylkene Oslo, Viken, Innlandet og Vestfold og Telemark. Hovedvekten av aktiviteter er i Oslo, men medlemmer kan også legge til rette for aktiviteter andre steder i Øst-Norge. Noen aktiviteter hos Spillmakerlauget Sør kan være aktuelle for Vestfold og Telemark, siden fylket er underlagt Sørnorsk Filmsenter.
 
 Foreningen har følgende formål:
 
