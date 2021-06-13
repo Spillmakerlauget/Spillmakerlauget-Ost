@@ -58,18 +58,18 @@ På årsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er opp
 Årsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget Øst.
 
 ## § 10 Årsmøtets oppgaver
-Årsmøtet skal:
+Årsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
-2.	Behandle Spillmakerlauget Østs årsmelding og eventuelle gruppeårsmeldinger.
-3.	Behandle Spillmakerlauget Østs regnskap (i revidert stand hvis foreningen er revisjonspliktig).
-4.	Behandle innkomne forslag og saker.
-5.	Fastsette medlemskontingent.
-6.	Vedta Spillmakerlauget Østs budsjett.
-7.	Velge:
-    - a.	Leder og nestleder
-    - b.	Minst 1 styremedlem
-    - c. Eventuelle varamedlemmer
-    - d.	Revisor og dennes stedfortreder, hvis foreningen er revisjonspliktig
+1.	Behandle årsmelding og eventuelle gruppeårsmeldinger.
+1.	Behandle regnskap (i revidert stand hvis foreningen er revisjonspliktig).
+1.	Fastsette medlemskontingent.
+1.	Vedta budsjett.
+1.	Behandle innkomne forslag og saker.
+1.	Velge:
+    - Leder og nestleder
+    - Minst 1 styremedlem
+    - Eventuelle varamedlemmer
+    - Revisor, hvis foreningen er revisjonspliktig
 
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet, og ved skriftlig valg avgjøres rekkefølgen i forhold til stemmetall.
 Alle styremedlemmer blir valgt for ett år om gangen.
@@ -87,10 +87,10 @@ Styret kan ikke inneholde mer enn to arbeidstakere fra samme kommersielle selska
 
 Styret skal:
 1.	Iverksette årsmøtets bestemmelser.
-2.	Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
-3.	Administrere og føre nødvendig kontroll med Spillmakerlauget Midts økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
-4.	Representere Spillmakerlauget Øst utad.
-5.	Signere dokumenter for Spillmakerlauget Øst.
+1.	Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
+1.	Administrere og føre nødvendig kontroll med Spillmakerlauget Midts økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
+1.	Representere Spillmakerlauget Øst utad.
+1.	Signere dokumenter for Spillmakerlauget Øst.
 
 Det holdes styremøte minst én gang hvert kvartal. Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
 
