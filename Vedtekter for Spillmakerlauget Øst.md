@@ -22,7 +22,7 @@ Spillmakerlauget Øst er medlem av og følger vedtektene til Spillmakerlauget (N
 ## § 3 Juridisk person
 Foreningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
 
-## § 4 Medlemmer
+## § 4 Medlemskap
 Alle enkeltpersoner med interesse for spillutvikling og å fremme spillutvikling som bransje kan bli medlem av Spillmakerlauget (Norge), som er ansvarlig for medlemsliste. Hvis Spillmakerlauget (Norge) har medlemskontingent, betales den forskuddsvis, og man regnes som medlem fra når man har betalt den. 
 
 Medlemmer som skylder kontingent for mer enn ett år, har ikke stemmerett eller andre rettigheter, og kan av enten styret i Spillmakerlauget Øst eller sentralstyret i Spillmakerlauget (Norge) strykes som medlem av foreningen. Strykes et medlem, kan det ikke tas opp igjen før det betaler kontingent igjen.
