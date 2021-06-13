@@ -1,7 +1,7 @@
 # Vedtekter for foreningen Spillmakerlauget Øst
 
 ## § 1 Foreningens navn
-Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er Norwergian Game Makers Guild East.
+Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er Norwegian Game Makers Guild East.
 
 ## § 2 Formål og visjon
 Spillmakerlauget Øst er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Øst-Norge, både profesjonelle og hobbyister. 
@@ -29,15 +29,15 @@ Medlemmer som skylder kontingent for mer enn ett år, har ikke stemmerett eller 
 
 Nye medlemmer i Spillmakerlauget (Norge) har tilknytning og stemmerett til det regionale lauget som medlemmet selv har valgt.
 
-Styret kan ved alminnelig flertall suspendere medlemmer i Spillmakerlauget Øst, men de plikter i så fall å melde skjellig grunn til vedkommende. Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet.
+Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Øst ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
 ## § 5 Kontingent
 
-Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt for sine medlemmer. Spillmakerlauget Østs årsmøte kan ved behov fastsette tilleggskontingent som Spillmakerlauget (Norge) krever inn for dem.
+Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt kontingent for sine medlemmer. Spillmakerlauget Østs årsmøte kan ved behov fastsette tilleggskontingent som Spillmakerlauget (Norge) krever inn for dem.
 Hvis Spillmakerlauget (Norge) ikke har medlemskontingent, kan Spillmakerlauget Østs årsmøte fastsette kontingent som Spillmakerlauget Øst krever inn direkte fra sine medlemmer.
 
 ## § 6 Stemmerett og valgbarhet
-For å ha stemmerett må man være fylt 15 år, ha hatt gyldig medlemskap i minst 2 uker og ha oppfylt medlemsforpliktelsene. Ingen kan møte eller avgi stemme ved fullmakt.
+For å ha stemmerett må man være fylt 18 år, ha hatt gyldig medlemskap i minst 2 uker og ha oppfylt medlemsforpliktelsene. Ingen kan møte eller avgi stemme ved fullmakt.
  
 Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og som representant til ting eller møte i overordnede organisasjonsledd. Tillitsvalgt kan imidlertid ikke samtidig være arbeidstaker i foreningen.
 
@@ -83,7 +83,7 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 ## § 12 Styret
 Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom årsmøtene.
-Styret kan maks bestå av en representant fra hvert foretak.
+Styret kan ikke inneholde mer enn to arbeidstakere fra samme kommersielle selskap.
 
 Styret skal:
 1.	Iverksette årsmøtets bestemmelser.
@@ -102,6 +102,7 @@ Under første styremøte etter gjennomført årsmøte skal styret selv fordele f
 
 - Økonomiansvarlig
 - Sekretær
+- Arrangementsansvarlig
 
 Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør.
 
@@ -115,7 +116,7 @@ For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget 
 ## § 14 Stemmegivning på årsmøte, styremøte og grupper/avdelinger
 Med mindre annet er bestemt, skal et vedtak for å være gyldig være truffet med alminnelig flertall av de avgitte stemmene. Blanke stemmer skal anses som ikke avgitt. Ved stemmelikhet avgjør leders stemme, eller nestleders stemme hvis leder ikke er til stede.
 
-Valg av personer til verv foregår skriftlig hvis det foreligger mer enn ett forslag. Bare foreslåtte kandidater kan føres opp på stemmeseddelen. Skal flere velges ved samme avstemming, må stemmesedlene inneholder det antall forskjellige kandidater som det skal velges ved vedkommende avstemming. Stemmesedler som er blanke, eller som inneholder ikke foreslåtte kandidater, eller annet antall kandidater enn det som skal velges, teller ikke, og stemmene anses som ikke avgitt.
+Valg av personer til verv foregår skriftlig hvis det foreligger mer enn ett forslag. Bare foreslåtte kandidater kan føres opp på stemmeseddelen. Skal flere velges ved samme avstemming, må stemmesedlene inneholde det antall forskjellige kandidater som det skal velges ved vedkommende avstemming. Stemmesedler som er blanke, eller som inneholder ikke foreslåtte kandidater, eller annet antall kandidater enn det som skal velges, teller ikke, og stemmene anses som ikke avgitt.
 
 Når et personvalg foregår enkeltvis og en kandidat ikke oppnår mer enn halvparten av de oppgitte stemmene, foretas bundet omvalg mellom de to kandidatene som har oppnådd flest stemmer. Er det ved omvalg stemmelikhet, avgjøres valget ved loddtrekning.
 
