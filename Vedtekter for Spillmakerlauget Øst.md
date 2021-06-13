@@ -54,10 +54,8 @@ Alle medlemmer har adgang til årsmøtet. Styret kan invitere andre personer og/
 
 På årsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før årsmøtet, med unntak av justeringer i innkomne forslag. Andre saker utenom sakslisten kan behandles og avgjøres når 2/3 av de fremmøtte krever det. Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 
-## § 9 Ledelse av årsmøtet
 Årsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget Øst.
 
-## § 10 Årsmøtets oppgaver
 Årsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
 1.	Behandle årsmelding og eventuelle gruppeårsmeldinger.
@@ -74,14 +72,14 @@ På årsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er opp
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet, og ved skriftlig valg avgjøres rekkefølgen i forhold til stemmetall.
 Alle styremedlemmer blir valgt for ett år om gangen.
 
-## § 11 Ekstraordinære årsmøter
+## § 9 Ekstraordinære årsmøter
 Ekstraordinære årsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
 
 Det innkalles på samme måte som for ordinære årsmøter, med minst 1 ukes varsel.
 
 Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
-## § 12 Styret
+## § 10 Styret
 Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom årsmøtene.
 Styret kan ikke inneholde mer enn to arbeidstakere fra samme kommersielle selskap.
 
@@ -108,12 +106,12 @@ Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rolle
 
 Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelig, kan styret i fellesskap tildele signaturrett og prokura til andre.
 
-## § 13 Grupper/avdelinger
+## § 11 Grupper/avdelinger
 Spillmakerlauget Øst kan organiseres med avdelinger og/eller grupper. Disse kan ledes av oppnevnte tillitspersoner eller av valgte styrer. Spillmakerlauget Østs årsmøte eller styre bestemmer opprettelsen av avdelinger/grupper, og hvordan disse skal organiseres og ledes.
 
 For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget Øst, og avdelinger/grupper kan ikke inngå avtaler eller representere Spillmakerlauget Øst utad uten styrets godkjennelse.
 
-## § 14 Stemmegivning på årsmøte, styremøte og grupper/avdelinger
+## § 12 Stemmegivning på årsmøte, styremøte og grupper/avdelinger
 Med mindre annet er bestemt, skal et vedtak for å være gyldig være truffet med alminnelig flertall av de avgitte stemmene. Blanke stemmer skal anses som ikke avgitt. Ved stemmelikhet avgjør leders stemme, eller nestleders stemme hvis leder ikke er til stede.
 
 Valg av personer til verv foregår skriftlig hvis det foreligger mer enn ett forslag. Bare foreslåtte kandidater kan føres opp på stemmeseddelen. Skal flere velges ved samme avstemming, må stemmesedlene inneholde det antall forskjellige kandidater som det skal velges ved vedkommende avstemming. Stemmesedler som er blanke, eller som inneholder ikke foreslåtte kandidater, eller annet antall kandidater enn det som skal velges, teller ikke, og stemmene anses som ikke avgitt.
@@ -122,11 +120,10 @@ Når et personvalg foregår enkeltvis og en kandidat ikke oppnår mer enn halvpa
 
 Når det ved personvalg skal velges flere ved en avstemming, må alle for å anses valgt ha mer enn halvparten av de avgitte stemmene. Dette gjelder ikke ved valg av vararepresentanter. Hvis ikke tilstrekkelig mange kandidater har oppnådd dette i første omgang, anses de valgt de som har fått mer enn halvparten av stemmene. Det foretas så bundet omvalg mellom de øvrige kandidatene, og etter denne avstemmingen anses de valgt de som har fått flest stemmer. Er det ved omvalg stemmelikhet, avgjøres valget ved loddtrekning.
 
-## § 15 Vedtektsendring
+## § 13 Vedtektsendring
 Disse vedtektene er Spillmakerlauget Østs øverste regelverk. Endringer i disse vedtektene kan bare foretas på ordinært eller ekstraordinært årsmøte, og det kreves 2/3 flertall av de avgitte stemmene. En vedtektsendring trer tidligst i kraft etter årsmøtet den vedtas på er hevet.
 
-## § 16 Oppløsning
+## § 14 Oppløsning
 Oppløsning av Spillmakerlauget Øst kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall av de avgitte stemmene, innkalles det til ekstraordinært årsmøte 3 måneder senere, der oppløsning må bekreftes med 2/3 flertall. Ved oppløsning bestemmer årsmøtet fordelingen av Spillmakerlauget Øst sine midler.
 
 Sammenslutning med andre foreninger anses ikke som oppløsning av Spillmakerlauget Øst. Vedtak om sammenslutning og nødvendige vedtektsendringer i tilknytning til dette treffes i samsvar med bestemmelsene om vedtektsendring, jfr. § 15.
-
