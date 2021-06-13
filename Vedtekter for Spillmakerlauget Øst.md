@@ -15,7 +15,7 @@ Foreningen har følgende formål:
 -	Å forbli en ideell og gjennomsiktig organisasjon
 -	Å være en arena for menings- og kunnskapsutveksling for alle interesserte innenfor vårt felt
 
-Foreningen baserer seg på frivillig engasjement, og er uavhengig av organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
+Foreningen baserer seg på frivillig engasjement, og er uavhengig av eksterne organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
 
 Spillmakerlauget Øst er medlem av og følger vedtektene til Spillmakerlauget (Norge).
  
