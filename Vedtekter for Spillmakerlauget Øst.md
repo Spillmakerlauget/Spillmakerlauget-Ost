@@ -6,7 +6,7 @@ Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Enge
 ## § 2 Formål og visjon
 Spillmakerlauget Øst er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Øst-Norge, både profesjonelle og hobbyister. 
 
-Med Øst-Norge menes fylkene Oslo, Viken, Innlandet og Vestfold og Telemark. Hovedvekten av aktiviteter er i Oslo, men medlemmer kan også legge til rette for aktiviteter andre steder i Øst-Norge. Noen aktiviteter hos Spillmakerlauget Sør kan være aktuelle for Vestfold og Telemark, siden fylket er underlagt Sørnorsk Filmsenter.
+Med Øst-Norge menes fylkene Oslo, Viken, Innlandet og Vestfold og Telemark. Hovedvekten av aktiviteter er i Oslo, men medlemmer kan også legge til rette for aktiviteter andre steder i Øst-Norge. 
 
 Foreningen har følgende formål:
 
