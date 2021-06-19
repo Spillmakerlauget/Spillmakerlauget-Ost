@@ -1,7 +1,7 @@
 # Vedtekter for foreningen Spillmakerlauget Øst
 
 ## § 1 Foreningens navn
-Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er Norwegian Game Makers Guild East.
+Foreningens navn er Spillmakerlauget Øst og ble stiftet 13. november 2013. Engelsk navn er Game Makers Guild of East Norway.
 
 ## § 2 Formål og visjon
 Spillmakerlauget Øst er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Øst-Norge, både profesjonelle og hobbyister. 
@@ -46,7 +46,7 @@ Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktis
 
 ## § 8 Årsmøte
 Årsmøtet, som hvert år holdes senest i mai måned og før landsmøtet til Spillmakerlauget, er foreningens høyeste myndighet.
-Årsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på årsmøtet skal være sendt til styret senest 2 uker før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 1 uke før årsmøtet.
+Årsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på årsmøtet skal være sendt til styret senest 1 uke før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Alle medlemmer har adgang til årsmøtet. Styret kan invitere andre personer og/eller media til å være til stede.
 
