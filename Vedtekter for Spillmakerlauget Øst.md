@@ -29,7 +29,7 @@ Medlemmer som skylder kontingent for mer enn ett år, har ikke stemmerett eller 
 
 Nye medlemmer i Spillmakerlauget (Norge) har tilknytning og stemmerett til det regionale lauget som medlemmet selv har valgt.
 
-Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Øst ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
+Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Øst ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettigheter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
 ## § 5 Kontingent
 
@@ -94,7 +94,7 @@ Det holdes styremøte minst én gang hvert kvartal. Styret skal holde møte når
 
 Styret er vedtaksført når et flertall av styrets medlemmer er til stede. Vedtak fattes med flertall av de avgitte stemmene. Ved stemmelikhet teller styrelederens stemme dobbelt.
 
-Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opp til totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
+Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opptil totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
 
 Under første styremøte etter gjennomført årsmøte skal styret selv fordele følgende roller innad:
 
